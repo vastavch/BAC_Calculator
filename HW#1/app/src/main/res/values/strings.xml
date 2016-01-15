@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">BAC Calculator</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="EnterWeight">Enter Weight</string>
+    <string name="Weight">Weight (lbs)</string>
+    <string name="gender">Gender</string>
+    <string name="Gender">Gender</string>
+    <string name="Save">Save</string>
+    <string name="DrinkSize">Drink Size</string>
+    <string name="oz1">1 oz</string>
+    <string name="oz5">5 oz</string>
+    <string name="oz12">12 oz</string>
+    <string name="alchohal">Alcohol %</string>
+    <string name="addDrink">Add Drink</string>
+    <string name="Reset">Reset</string>
+    <string name="BAClevel">BAC Level : </string>
+    <string name="YourStatus">Your Status :</string>
+    <string name="F">F</string>
+    <string name="M">M</string>
+    <string name="error1">Enter the weight in lbs</string>
+    <string name="error2">No more drinks for you</string>
+    <string name="error3">Enter only positive values for the weight</string>
+    <string name="safe">You\'re Safe</string>
+    <string name="careful">Be Careful..</string>
+    <string name="danger">Over the limit!</string>
+
+</resources>
